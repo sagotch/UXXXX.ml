@@ -1,0 +1,5 @@
+name ="UXXXX"
+version ="1.0.0"
+description ="\\uXXX to UTF-8 encoded."
+archive(byte) ="UXXXX.cma"
+archive(native) ="UXXXX.cmxa"
